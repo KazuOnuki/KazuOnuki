@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=KazuOnuki)
-- 👋 Hi, I’m @KazuOnuki
+- 👋 1 Language, 1 year
 - 👀 LinkedIn: www.linkedin.com/in/kazuyaonuki
 
 <!--![kazuyaonuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazuOnuki&show_icons=true&theme=vue-dark)-->
