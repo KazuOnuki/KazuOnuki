@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=KazuOnuki)
+
+###### recent OSS contribution history
+- [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT/graphs/contributors?from=2021-01-31&to=2024-02-10&type=a)
+
 ###### profile overview
 - 👋 1 Language, 1 year
 - 👀 LinkedIn: www.linkedin.com/in/kazuyaonuki
@@ -8,9 +12,6 @@
 
 ###### Learning
 <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
-
-###### recent OSS contribution history
-- [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT/graphs/contributors?from=2021-01-31&to=2024-02-10&type=a)
 
 <!--![kazuyaonuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazuOnuki&show_icons=true&theme=vue-dark)-->
 
