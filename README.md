@@ -2,6 +2,7 @@
 
 ###### recent OSS contribution history
 - [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT/graphs/contributors?from=2021-01-31&to=2024-02-10&type=a)
+- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python/pull/34298)
 
 ###### profile overview
 - 👋 1 Language, 1 year
