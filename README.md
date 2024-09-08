@@ -5,8 +5,7 @@
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python/pull/34298)
 
 ###### profile overview
-- 👋 1 Language, 1 year
-- 👀 LinkedIn: www.linkedin.com/in/kazuyaonuki
+- 👋 LinkedIn: www.linkedin.com/in/kazuyaonuki
 
 ###### Most used Tools
 <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&style=flat&logoColor=white"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat"> <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-k8s-EEE.svg?logo=kubernetes&style=flat"> <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
